@@ -29,7 +29,7 @@
 #  ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS
 #  SOFTWARE.
 #
-#  Contact : info@tomorrowsystems.com
+#  Contact : info@kadantte.moe
 # ============================================================================
 #
 # USAGE:  Run in PowerShell:  .\check.ps1
